@@ -4,17 +4,7 @@
 
 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Gleidson-Oliver&show_icons=true&theme=highcontrast"
-   
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Gleidson-Oliver&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: #000000)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Gleidson-Oliver&show_icons=true" />
-</picture>
+
 <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizomf&theme=highcontrast"/>
 
 <div style="display: inline_block"><br>
